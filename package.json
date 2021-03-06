@@ -1,0 +1,25 @@
+{
+  "name": "gerenciador-certificados",
+  "version": "1.0.0",
+  "description": "Web app for manager certificades for events.",
+  "main": "index.js",
+  "scripts": {
+    "test": "next start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ModularS/gerenciador-certificados.git"
+  },
+  "keywords": [
+    "maneger",
+    "certificate",
+    "web",
+    "app"
+  ],
+  "author": "ModularS",
+  "license": "SEE LICENSE IN LICENSE",
+  "bugs": {
+    "url": "https://github.com/ModularS/gerenciador-certificados/issues"
+  },
+  "homepage": "https://github.com/ModularS/gerenciador-certificados#readme"
+}
